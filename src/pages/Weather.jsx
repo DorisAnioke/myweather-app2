@@ -5,10 +5,10 @@ import '../cssfolder/weather.css'
 import { useState } from 'react';
 import { useEffect } from 'react';
 import Clouds from '../assets/weatherImgs/clouds.png';
-import Rain from '../assets/weatherImgs/rain.png';
+import Rain from '../assets/weatherImgs/Rain.png';
 // import Mist from '../assets/weatherImgs/weatherImgs/mist.png';
-import Clear from '../assets/weatherImgs/clear.png';
-import Snow from '../assets/weatherImgs/snowy.png';
+import Clear from '../assets/weatherImgs/Clear.png';
+import Snow from '../assets/weatherImgs/Snowy.png';
 import Storm from '../assets/weatherImgs/Storm.png';
 import axios from 'axios'
 import { FaThermometerHalf } from "react-icons/fa";
